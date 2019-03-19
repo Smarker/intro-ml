@@ -3,6 +3,11 @@
 To work on the challenges in `/notebooks`, you can run jupyter notebooks on a
  `Data Science Virtual Machine` (DSVM) or with `Docker`.
 
+## Getting Data
+
+You can zip from Kaggle
+[here](https://www.kaggle.com/asdasdasasdas/garbage-classification/version/2#Garbage%20classification.zip).
+
 ## DSVM
 
 [DSVMs](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
