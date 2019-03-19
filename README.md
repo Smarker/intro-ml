@@ -5,7 +5,7 @@ To work on the challenges in `/notebooks`, you can run jupyter notebooks on a
 
 ## Getting Data
 
-You can zip from Kaggle
+You can download the zip from Kaggle
 [here](https://www.kaggle.com/asdasdasasdas/garbage-classification/version/2#Garbage%20classification.zip).
 
 ## DSVM
